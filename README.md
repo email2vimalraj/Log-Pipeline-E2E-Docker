@@ -1,1 +1,1 @@
-# Log-Pipeline-E2E-Docker
+# Log Pipeline E2E Docker
